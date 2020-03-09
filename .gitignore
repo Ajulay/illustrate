@@ -4,6 +4,8 @@ build/
 !gradle/wrapper/gradle-wrapper.jar
 !**/src/main/**
 !**/src/test/**
+gradlew
+gradlew.bat
 
 ### IntelliJ IDEA ###
 .idea
@@ -11,3 +13,5 @@ build/
 *.iml
 *.ipr
 out/
+/gradle/wrapper/gradle-wrapper.properties
+/gradle/wrapper/gradle-wrapper.jar
